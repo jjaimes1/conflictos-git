@@ -1,1 +1,0 @@
-# conflictos-git
